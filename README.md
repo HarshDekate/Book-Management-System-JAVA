@@ -1,7 +1,3 @@
-Certainly! Let's provide more detailed information in the README:
-
----
-
 # Book Management System - Java
 
 Welcome to Libzazy Book Management System! This project is a Java-based system designed to efficiently manage books in a library setting. It provides a comprehensive set of features for both users and administrators, ensuring smooth operation and organization of library resources.
