@@ -61,7 +61,7 @@ To run the Book Management System on your local machine, follow these steps:
 
 The class diagram of the project is provided in the `blank_diagram.jpeg` file. You can open this file using Star UML or any compatible tool to visualize the structure of the system.
 
-![Class Diagram](Book-Management-System-JAVA/Blankdiagram.jpeg)
+![Class Diagram](Book-Management-System-JAVA/diagram.jpeg)
 
 Note: After refactoring, a new class named "HoldRequestOperations" has been added to remove bidirectional dependencies between `HoldRequest` and `Book` classes. For more details, refer to the [Refactoring Details](#refactoring-details) section below.
 
